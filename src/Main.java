@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Terceira modificacao");
         System.out.println("Quarta modificacao");
         System.out.println("Print na main 31/07");
+        System.out.println(Math.random());
     }
 }
